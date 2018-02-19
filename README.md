@@ -1,2 +1,2 @@
-#workflows courses
-This is an ex of workflows management
+#workflows 
+Ex of workflows management
